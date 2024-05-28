@@ -1,0 +1,44 @@
+/* components/Footer.module.css */
+
+.footer {
+  background-color: #282828;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footerContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.footerTitle {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.footerDescription {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.footerSocial {
+  margin-bottom: 20px;
+}
+
+.footerLink {
+  color: #fff;
+  margin: 0 10px;
+  font-size: 24px;
+  transition: color 0.3s;
+}
+
+.footerLink:hover {
+  color: #1da1f2; /* LinkedIn color as an example */
+}
+
+.footerCopy {
+  font-size: 14px;
+  color: #aaa;
+}
