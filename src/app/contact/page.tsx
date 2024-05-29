@@ -3,12 +3,12 @@ import { FormEvent, useState } from "react";
 import "./page.css"; // Ensure to include your CSS file
 
 const ContactSection: React.FC = () => {
+  console.log(process.env.NEXT_PUBLIC_BACKEND)
   const SubmitMessage =  (event: any) => {
     event.preventDefault();
 
 
-
-    fetch("http://localhost:4000/send-email", {
+    fetch(`${process.env.NEXT_PUBLIC_BACKEND}/send-email`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

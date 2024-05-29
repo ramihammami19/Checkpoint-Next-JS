@@ -2,7 +2,7 @@
 const Footer: React.FC = () => {
   return (
     <div className="rami">
-      <footer className="text-center text-white" style={{ backgroundColor: '#3f51b5' }}>
+      <footer className="text-center text-white" style={{ backgroundColor: '#17202A' }}>
         <div className="container">
           <section className="mt-5">
             <div className="row text-center d-flex justify-content-center pt-5">
