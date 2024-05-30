@@ -41,7 +41,7 @@ try {
                               <td align="center"><strong style="color:#55BDE8; font-size:3em; font-weight:bolder; text-align:center; margin:0px;">THANK YOU ${body.fullname}</strong><br /><br /></td>
                           </tr>
                           <tr>
-                              <td align="center"><span style="color:#000; font-size:2.2em; text-align:center; margin:0px;">for your subscription</span></td>
+                              <td align="center"><span style="color:#000; font-size:2.2em; text-align:center; margin:0px;">for reaching out</span></td>
                           </tr>
                           <tr>
                               <td>&nbsp;</td>
@@ -59,10 +59,10 @@ try {
                           <tr>
                               <td valign="top" align="left">
                                   <div>
-                                      <p><strong>Hi ${body.fullname},</strong> =Thank you for reaching out and considering me for your development project. I am excited about the opportunity to work with you and would love to discuss your requirements in detail.
+                                      <p><strong>Hi ${body.fullname},</strong> Thank you for reaching out and considering me for your development project. I am excited about the opportunity to work with you and would love to discuss your requirements in detail.
 
 
-                                      I am a full-stack developer with expertise in [list relevant technologies or frameworks you specialize in, e.g., React, Node.js, Python, etc.]. I have [number] years of experience in developing robust and scalable web applications, and I am confident that my skills and experience align well with your project needs.
+                                      I am a full-stack developer with expertise in React, Node.js, Type script,Next js, etc. I have a year of experience in developing robust and scalable web applications, and I am confident that my skills and experience align well with your project needs.
                                       
                                       To better understand your project and how I can contribute, could you please provide more details on the following:
                                       
@@ -74,7 +74,7 @@ try {
                                       
                                       Thank you once again for considering me for this opportunity. I look forward to your response and hope to collaborate with you soon.
                                       
-                                      Best regards,</p>
+                                      Best regards, Rami Hammami</p>
                               </div></td>
                           </tr>
                           <tr>
@@ -85,8 +85,9 @@ try {
                           </tr>
                           <tr>
                                   <br><br>Our mailing address is:
-                                  <br><br>rami hammai.
-                                  <br>mourouj 3 tunise
+                                  <br><br>
+                                  <br>La casa de coffe, El Mourouj 6, Ben arous   
+                                  <br><br>  +216 93 300 845
                                   </p>
                               </td>
                           </tr>
