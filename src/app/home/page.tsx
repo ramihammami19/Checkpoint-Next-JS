@@ -8,8 +8,7 @@ const HeroSection: React.FC = () => {
           <div className="col-12 col-lg-6 order-1 order-lg-0">
             <h1 className="   display-3 fw-bold mb-3" style={{ color: '#3f51b5' }} >A full stack developer      </h1>
             <p className="fs-4 mb-5"   style={{ color: '#3f51b5' }}>
-              We work in a create a beatufil web site and application 
-            </p>
+            I work to create beautiful websites and applications.            </p>
           
           </div>
           <div className="col-12 col-lg-5 text-center">

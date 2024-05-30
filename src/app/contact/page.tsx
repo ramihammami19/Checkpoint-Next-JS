@@ -35,7 +35,7 @@ const ContactSection: React.FC = () => {
               Get in Touch
             </h3>
             <h2 className="display-5 mb-4 mb-md-5 text-center">
-            We're always eager to collaborate with new clients            </h2>
+            I'm always eager to collaborate with new clients.            </h2>
             <hr className="w-50 mx-auto mb-5 mb-xl-9 border-dark-subtle" />
           </div>
         </div>
